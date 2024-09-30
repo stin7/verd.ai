@@ -26,6 +26,8 @@ At Verdai, we are committed to making sustainable energy accessible and affordab
 
 Ready to harness the power of the sun? [Contact us](https://forms.gle/8Z498TrBNWxPWgWU8) today for a free consultation!
 
+![Solar panel on home](https://images.unsplash.com/photo-1583345237708-add35a664d77)
+
 ---
 
 © 2024 Verdai LLC. All rights reserved. | [Privacy Policy](http://verd.ai/privacy) | [Terms of Service](http://verd.ai/terms) | 2108 N ST # 9036, Sacramento CA 95816
