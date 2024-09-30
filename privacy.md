@@ -47,4 +47,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## 8. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at info@verd.ai.
+If you have any questions about this Privacy Policy, please contact us using our [contact form](https://forms.gle/8Z498TrBNWxPWgWU8).

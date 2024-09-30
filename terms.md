@@ -44,4 +44,4 @@ Our services are provided "as is" without any warranty of any kind, either expre
 
 ## 10. Contact Information
 
-If you have any questions about these Terms, please contact us at info@verd.ai.
+If you have any questions about these Terms, please contact us using [our contact form](https://forms.gle/8Z498TrBNWxPWgWU8).
