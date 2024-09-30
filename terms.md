@@ -4,11 +4,11 @@ Last updated: September 29, 2024
 
 ## 1. Acceptance of Terms
 
-By accessing and using the services provided by Verdai ("we", "our", or "us"), including our website http://verd.ai, you agree to comply with and be bound by these Terms of Service.
+By accessing and using the services provided by Verdai LLC ("we", "our", or "us"), including our website http://verd.ai, you agree to comply with and be bound by these Terms of Service.
 
 ## 2. Description of Services
 
-Verdai provides residential solar and battery consultation, design, financing, and investment opportunities related to sustainable energy solutions.
+Verdai LLC provides residential solar and battery consultation, design, financing, and investment opportunities related to sustainable energy solutions.
 
 ## 3. User Responsibilities
 
@@ -24,7 +24,7 @@ All content on our website and services, including text, graphics, logos, and so
 
 ## 5. Limitation of Liability
 
-Verdai shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
+Verdai LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
 
 ## 6. Termination
 

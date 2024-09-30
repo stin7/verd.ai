@@ -4,7 +4,7 @@ Last updated: Sep 29, 2024
 
 ## 1. Introduction
 
-Verdai ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website http://verd.ai or use our services.
+Verdai LLC ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website http://verd.ai or use our services.
 
 ## 2. Information We Collect
 

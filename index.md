@@ -1,5 +1,3 @@
-# Verdai
-
 ## Our Mission
 
 At Verdai, we are committed to making sustainable energy accessible and affordable for homeowners. Our mission is to empower individuals to take control of their energy future through innovative solar and battery solutions. We believe that by harnessing the power of the sun, we can create a cleaner, more resilient, and cost-effective energy landscape for our communities.
@@ -30,4 +28,4 @@ Ready to harness the power of the sun? [Contact us](https://forms.gle/8Z498TrBNW
 
 ---
 
-© 2024 Verdai. All rights reserved. | [Privacy Policy](http://verd.ai/privacy) | [Terms of Service](http://verd.ai/terms) | 2108 N ST # 9036, Sacramento CA 95816
+© 2024 Verdai LLC. All rights reserved. | [Privacy Policy](http://verd.ai/privacy) | [Terms of Service](http://verd.ai/terms) | 2108 N ST # 9036, Sacramento CA 95816
